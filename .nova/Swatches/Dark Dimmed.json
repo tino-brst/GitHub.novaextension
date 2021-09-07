@@ -2,26 +2,26 @@
   "swatches": [
     {
       "color": "#1c2128ff",
+      "name": "scale.black",
+      "space": "srgb"
+    },
+    {
+      "color": "#cdd9e5ff",
       "name": "scale.white",
       "space": "srgb"
     },
     {
-      "color": "#22272eff",
-      "name": "scale.gray.0",
-      "space": "srgb"
-    },
-    {
-      "color": "#2d333bff",
+      "color": "#adbac7ff",
       "name": "scale.gray.1",
       "space": "srgb"
     },
     {
-      "color": "#373e47ff",
+      "color": "#909dabff",
       "name": "scale.gray.2",
       "space": "srgb"
     },
     {
-      "color": "#444c56ff",
+      "color": "#768390ff",
       "name": "scale.gray.3",
       "space": "srgb"
     },
@@ -31,33 +31,38 @@
       "space": "srgb"
     },
     {
-      "color": "#768390ff",
-      "name": "scale.gray.6",
-      "space": "srgb"
-    },
-    {
-      "color": "#909dabff",
-      "name": "scale.gray.7",
-      "space": "srgb"
-    },
-    {
-      "color": "#adbac7ff",
-      "name": "scale.gray.8",
-      "space": "srgb"
-    },
-    {
       "color": "#6cb6ffff",
       "name": "scale.blue.6",
       "space": "srgb"
     },
     {
+      "color": "#444c56ff",
+      "name": "scale.gray.6",
+      "space": "srgb"
+    },
+    {
+      "color": "#373e47ff",
+      "name": "scale.gray.7",
+      "space": "srgb"
+    },
+    {
+      "color": "#2d333bff",
+      "name": "scale.gray.8",
+      "space": "srgb"
+    },
+    {
+      "color": "#22272eff",
+      "name": "scale.gray.9",
+      "space": "srgb"
+    },
+    {
       "color": "#96d0ffff",
-      "name": "scale.blue.8",
+      "name": "scale.blue.1",
       "space": "srgb"
     },
     {
       "color": "#8ddb8cff",
-      "name": "scale.green.8",
+      "name": "scale.green.1",
       "space": "srgb"
     },
     {
@@ -67,12 +72,12 @@
     },
     {
       "color": "#dcbdfbff",
-      "name": "scale.purple.7",
+      "name": "scale.purple.1",
       "space": "srgb"
     },
     {
       "color": "#f47067ff",
-      "name": "scale.red.6",
+      "name": "scale.red.3",
       "space": "srgb"
     },
     {
