@@ -249,7 +249,7 @@ tag.attribute.operator {
   color: #f47067;
 }
 
-/* Styles */
+/* Style sheets */
 style.at,
 style.value.number.unit {
   color: #f47067;
@@ -302,4 +302,55 @@ markdown.image.string {
 /* YAML */
 yaml.identifier.key {
   color: #8ddb8c;
+}
+
+/* Terminal */
+terminal.bright-black {
+  color: #636e7b;
+}
+terminal.bright-red {
+  color: #ff938a;
+}
+terminal.bright-green {
+  color: #6bc46d;
+}
+terminal.bright-yellow {
+  color: #daaa3f;
+}
+terminal.bright-blue {
+  color: #6cb6ff;
+}
+terminal.bright-magenta {
+  color: #dcbdfb;
+}
+terminal.bright-cyan {
+  color: #56d4dd;
+}
+terminal.bright-white {
+  color: #cdd9e5;
+}
+
+terminal.black {
+  color: #545d68;
+}
+terminal.red {
+  color: #f47067;
+}
+terminal.green {
+  color: #57ab5a;
+}
+terminal.yellow {
+  color: #c69026;
+}
+terminal.blue {
+  color: #539bf5;
+}
+terminal.magenta {
+  color: #b083f0;
+}
+terminal.cyan {
+  color: #39c5cf;
+}
+terminal.white {
+  color: #909dab;
 }
