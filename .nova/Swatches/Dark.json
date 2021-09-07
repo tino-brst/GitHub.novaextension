@@ -1,0 +1,154 @@
+{
+  "swatches": [
+    {
+      "color": "#010409ff",
+      "name": "scale.black",
+      "space": "srgb"
+    },
+    {
+      "color": "#7ee787ff",
+      "name": "scale.green.1",
+      "space": "srgb"
+    },
+    {
+      "color": "#ffa657ff",
+      "name": "scale.orange.2",
+      "space": "srgb"
+    },
+    {
+      "color": "#a5d6ffff",
+      "name": "scale.blue.1",
+      "space": "srgb"
+    },
+    {
+      "color": "#79c0ffff",
+      "name": "scale.blue.2",
+      "space": "srgb"
+    },
+    {
+      "color": "#d2a8ffff",
+      "name": "scale.purple.2",
+      "space": "srgb"
+    },
+    {
+      "color": "#ff7b72ff",
+      "name": "scale.red.3",
+      "space": "srgb"
+    },
+    {
+      "color": "#c9d1d9ff",
+      "name": "scale.gray.1",
+      "space": "srgb"
+    },
+    {
+      "color": "#8b949eff",
+      "name": "scale.gray.3",
+      "space": "srgb"
+    },
+    {
+      "color": "#484f58ff",
+      "name": "scale.gray.5",
+      "space": "srgb"
+    },
+    {
+      "color": "#30363dff",
+      "name": "scale.gray.6",
+      "space": "srgb"
+    },
+    {
+      "color": "#21262dff",
+      "name": "scale.gray.7",
+      "space": "srgb"
+    },
+    {
+      "color": "#161b22ff",
+      "name": "scale.gray.8",
+      "space": "srgb"
+    },
+    {
+      "color": "#0d1117ff",
+      "name": "scale.gray.9",
+      "space": "srgb"
+    },
+    {
+      "color": "#484f58",
+      "name": "ansi.black",
+      "space": "srgb"
+    },
+    {
+      "color": "#ff7b72",
+      "name": "ansi.red",
+      "space": "srgb"
+    },
+    {
+      "color": "#3fb950",
+      "name": "ansi.green",
+      "space": "srgb"
+    },
+    {
+      "color": "#d29922",
+      "name": "ansi.yellow",
+      "space": "srgb"
+    },
+    {
+      "color": "#58a6ff",
+      "name": "ansi.blue",
+      "space": "srgb"
+    },
+    {
+      "color": "#bc8cff",
+      "name": "ansi.magenta",
+      "space": "srgb"
+    },
+    {
+      "color": "#39c5cf",
+      "name": "ansi.cyan",
+      "space": "srgb"
+    },
+    {
+      "color": "#b1bac4",
+      "name": "ansi.white",
+      "space": "srgb"
+    },
+    {
+      "color": "#6e7681",
+      "name": "ansi.blackBright",
+      "space": "srgb"
+    },
+    {
+      "color": "#ffa198",
+      "name": "ansi.redBright",
+      "space": "srgb"
+    },
+    {
+      "color": "#56d364",
+      "name": "ansi.greenBright",
+      "space": "srgb"
+    },
+    {
+      "color": "#e3b341",
+      "name": "ansi.yellowBright",
+      "space": "srgb"
+    },
+    {
+      "color": "#79c0ff",
+      "name": "ansi.blueBright",
+      "space": "srgb"
+    },
+    {
+      "color": "#d2a8ff",
+      "name": "ansi.magentaBright",
+      "space": "srgb"
+    },
+    {
+      "color": "#56d4dd",
+      "name": "ansi.cyanBright",
+      "space": "srgb"
+    },
+    {
+      "color": "#f0f6fc",
+      "name": "ansi.whiteBright",
+      "space": "srgb"
+    }
+  ]
+}
