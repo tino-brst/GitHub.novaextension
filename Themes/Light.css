@@ -104,7 +104,7 @@ meta.indentguide {
 
 /* Gutter */
 meta.gutter {
-  color: #57606a;
+  color: #8c959f;
 }
 meta.gutter.selected {
   color: #24292f;
@@ -218,13 +218,6 @@ markup.link {
 /* Types */
 definition {
   color: #cf222e;
-}
-
-/* Members */
-definition.property.name {
-}
-definition.function.name,
-definition.method.name {
 }
 
 /* Tags */

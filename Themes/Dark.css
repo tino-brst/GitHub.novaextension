@@ -220,13 +220,6 @@ definition {
   color: #ff7b72;
 }
 
-/* Members */
-definition.property.name {
-}
-definition.function.name,
-definition.method.name {
-}
-
 /* Tags */
 tag,
 tag.framework {
