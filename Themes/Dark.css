@@ -290,6 +290,10 @@ typescript.comma,
 typescript.dot {
   color: #c9d1d9;
 }
+typescript.identifier.type.class.name,
+typescript.identifier.type.name {
+  color: #ffa657;
+}
 
 /* Markdown */
 markdown.image.bracket {
@@ -307,6 +311,11 @@ yaml.identifier.key {
 /* XML */
 xml.meta.processing {
   color: #c9d1d9;
+}
+
+/* Ruby */
+ruby.identifier.core.method {
+  color: #ff7b72;
 }
 
 /*
