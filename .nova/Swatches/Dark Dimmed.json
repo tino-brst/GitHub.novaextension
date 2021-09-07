@@ -6,16 +6,6 @@
       "space": "srgb"
     },
     {
-      "color": "#6cb6ffff",
-      "name": "scale.blue.6",
-      "space": "srgb"
-    },
-    {
-      "color": "#96d0ffff",
-      "name": "scale.blue.8",
-      "space": "srgb"
-    },
-    {
       "color": "#22272eff",
       "name": "scale.gray.0",
       "space": "srgb"
@@ -46,13 +36,23 @@
       "space": "srgb"
     },
     {
-      "color": "#909dab",
+      "color": "#909dabff",
       "name": "scale.gray.7",
       "space": "srgb"
     },
     {
       "color": "#adbac7ff",
       "name": "scale.gray.8",
+      "space": "srgb"
+    },
+    {
+      "color": "#6cb6ffff",
+      "name": "scale.blue.6",
+      "space": "srgb"
+    },
+    {
+      "color": "#96d0ffff",
+      "name": "scale.blue.8",
       "space": "srgb"
     },
     {
@@ -73,6 +73,86 @@
     {
       "color": "#f47067ff",
       "name": "scale.red.6",
+      "space": "srgb"
+    },
+    {
+      "color": "#545d68ff",
+      "name": "ansi.black",
+      "space": "srgb"
+    },
+    {
+      "color": "#f47067ff",
+      "name": "ansi.red",
+      "space": "srgb"
+    },
+    {
+      "color": "#57ab5aff",
+      "name": "ansi.green",
+      "space": "srgb"
+    },
+    {
+      "color": "#c69026ff",
+      "name": "ansi.yellow",
+      "space": "srgb"
+    },
+    {
+      "color": "#539bf5ff",
+      "name": "ansi.blue",
+      "space": "srgb"
+    },
+    {
+      "color": "#b083f0ff",
+      "name": "ansi.magenta",
+      "space": "srgb"
+    },
+    {
+      "color": "#39c5cfff",
+      "name": "ansi.cyan",
+      "space": "srgb"
+    },
+    {
+      "color": "#909dabff",
+      "name": "ansi.white",
+      "space": "srgb"
+    },
+    {
+      "color": "#636e7bff",
+      "name": "ansi.blackBright",
+      "space": "srgb"
+    },
+    {
+      "color": "#ff938aff",
+      "name": "ansi.redBright",
+      "space": "srgb"
+    },
+    {
+      "color": "#6bc46dff",
+      "name": "ansi.greenBright",
+      "space": "srgb"
+    },
+    {
+      "color": "#daaa3fff",
+      "name": "ansi.yellowBright",
+      "space": "srgb"
+    },
+    {
+      "color": "#6cb6ffff",
+      "name": "ansi.blueBright",
+      "space": "srgb"
+    },
+    {
+      "color": "#dcbdfbff",
+      "name": "ansi.magentaBright",
+      "space": "srgb"
+    },
+    {
+      "color": "#56d4ddff",
+      "name": "ansi.cyanBright",
+      "space": "srgb"
+    },
+    {
+      "color": "#cdd9e5ff",
+      "name": "ansi.whiteBright",
       "space": "srgb"
     }
   ]
