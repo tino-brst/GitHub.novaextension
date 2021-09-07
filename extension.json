@@ -1,8 +1,11 @@
 {
-    "identifier": "agustinburset.GitHub",
-    "name": "GitHub",
-    "organization": "Agustin Burset",
-    "description": "Lorem ipsum, dolor sit amet.",
-    "version": "1.0",
-    "categories": ["themes"]
+  "identifier": "agustinburset.GitHub",
+  "name": "GitHub Themes",
+  "organization": "Agustin Burset",
+  "description": "Themes based on GitHub's official VS Code themes.",
+  "version": "1.0",
+  "bugs": {
+    "email": "agustin.burset@icloud.com"
+  },
+  "categories": ["themes"]
 }
