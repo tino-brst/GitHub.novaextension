@@ -1,0 +1,305 @@
+meta {
+  -theme-display-name: 'GitHub Dark Dimmed';
+  -theme-interface-style: dark;
+  -theme-accent-color: auto;
+}
+
+/*
+ * Titlebar & sidebar styles
+ */
+meta.window {
+  background: #1c2128;
+  border: #444c56b2;
+}
+meta.titlebar {
+  background: linear-gradient(#2d333b, #22272e);
+  color: #adbac7; /* No alpha support */
+  border: #373e47; /* No alpha support */
+}
+meta.titlebar.inactive {
+  background-color: #22272e;
+  color: #768390; /* No effect */
+}
+
+meta.button {
+  background: #373e47;
+  border: #444c56;
+  color: #adbac7;
+}
+meta.button.highlighted {
+  background: #444c56;
+  border: #545d68;
+  color: #adbac7;
+}
+meta.button.disabled {
+  background: #1c2128;
+  border: #2d333b;
+  color: #768390;
+}
+
+meta.button.selected,
+meta.button.selected.highlighted {
+  color: white;
+}
+
+meta.textfield,
+meta.textfield.highlighted {
+  background: #22272e;
+  border: #2d333b;
+}
+
+/*
+ * Document styles
+ */
+meta.document {
+  background: #22272e;
+  border: #373e47;
+}
+
+meta.document.button {
+  background: #373e47;
+  border: #444c56;
+  color: #adbac7;
+}
+meta.document.button.highlighted {
+  background: #444c56;
+  border: #545d68;
+  color: #adbac7;
+}
+meta.document.button.disabled {
+  background: #22272e;
+  border: #373e47;
+  color: #768390;
+}
+
+meta.document.textfield,
+meta.document.textfield.highlighted {
+  background: #1c2128;
+  border: #373e47;
+}
+
+/* Text */
+meta.text {
+  color: #adbac7;
+}
+meta.text.invisible {
+  color: #545d68;
+}
+meta.text.selected {
+  background: #274467; /* No alpha support */
+}
+meta.declaration {
+  color: #adbac7;
+}
+
+/* Cursor */
+meta.cursor {
+  background-color: #2d333b;
+}
+
+/* Indentation Guides */
+meta.indentguide {
+  border-color: #444c56;
+}
+
+/* Gutter */
+meta.gutter {
+  color: #768390;
+}
+meta.gutter.selected {
+  color: #adbac7;
+}
+
+/*
+ * Syntax styles
+ */
+comment {
+  color: #768390;
+}
+processing {
+  color: #f47067;
+}
+bracket,
+value.variable.bracket {
+  color: #adbac7;
+}
+operator {
+  color: #f47067;
+}
+invalid {
+  /* ? */
+  background-color: hsl(0, 90%, 60%);
+  color: hsl(60, 33%, 96%);
+}
+method {
+  color: #dcbdfb;
+}
+
+/* Keywords */
+keyword {
+  color: #f47067;
+}
+keyword.self {
+  color: #6cb6ff;
+}
+
+/* Values */
+value {
+  color: #6cb6ff;
+}
+
+/* Identifiers */
+identifier {
+  color: #adbac7;
+}
+identifier.core.global,
+identifier.type,
+identifier.type.core,
+identifier.constant,
+identifier.global,
+identifier.variable {
+  color: #6cb6ff;
+}
+identifier.property.name {
+  color: #adbac7;
+}
+identifier.function,
+identifier.method,
+identifier.method.name {
+  color: #dcbdfb;
+}
+identifier.key {
+  color: #adbac7;
+}
+identifier.argument {
+  color: #f69d50;
+}
+
+/* Strings */
+string,
+string-template,
+cdata {
+  color: #96d0ff;
+}
+string.escape {
+  color: #6cb6ff;
+}
+regex {
+  color: #96d0ff;
+}
+regex.escape {
+  color: #f47067;
+}
+regex.character-class {
+  color: #6cb6ff;
+}
+
+/* Markup */
+markup.heading {
+  font-weight: bold;
+  color: #6cb6ff;
+}
+markup.bold {
+  font-weight: bold;
+}
+markup.italic {
+  font-style: italic;
+}
+markup.list.item {
+  color: #f69d50;
+}
+markup.processing {
+  color: #adbac7;
+}
+markup.link {
+  color: #96d0ff;
+}
+
+/* Types */
+definition {
+  color: #f47067;
+}
+
+/* Members */
+definition.property.name {
+}
+definition.function.name,
+definition.method.name {
+}
+
+/* Tags */
+tag,
+tag.framework {
+  color: #adbac7;
+}
+tag.name,
+tag.framework.name {
+  color: #8ddb8c;
+}
+tag.attribute.name,
+tag.framework.attribute.name {
+  color: #6cb6ff;
+}
+tag.attribute.value,
+tag.attribute.value.delimiter,
+tag.attribute.value.link {
+  color: #96d0ff;
+}
+tag.attribute.operator {
+  color: #f47067;
+}
+
+/* Styles */
+style.at,
+style.value.number.unit {
+  color: #f47067;
+}
+style.selector.element {
+  color: #8ddb8c;
+}
+style.selector.identifier.id,
+style.attribute.name,
+style.value.number,
+style.value.identifier.function,
+style.value.color.named,
+style.selector.identifier.class,
+style.value.color.hex,
+style.value.keyword,
+style.selector.pseudoclass,
+style.selector.pseudoelement,
+style.media-feature.keyword {
+  color: #6cb6ff;
+}
+style.attribute,
+style.attribute.separator,
+style.value.function.bracket,
+style.attribute-list.bracket,
+at-rule.definition.bracket {
+  color: #adbac7;
+}
+style.value.property.identifier {
+  color: #f69d50;
+}
+
+/*
+ * Language specific
+ */
+
+/* Typescript */
+typescript.comma,
+typescript.dot {
+  color: #adbac7;
+}
+
+/* Markdown */
+markdown.image.bracket {
+  color: #96d0ff;
+}
+markdown.image.string {
+  color: #adbac7;
+}
+
+/* YAML */
+yaml.identifier.key {
+  color: #8ddb8c;
+}
