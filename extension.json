@@ -3,7 +3,9 @@
   "name": "GitHub Themes",
   "organization": "Agustin Burset",
   "description": "Themes based on GitHub's official VS Code themes.",
-  "version": "1.0",
+  "repository": "https://github.com/AgustinBrst/GitHub.novaextension",
+  "funding": "https://paypal.me/tinobrst",
+  "version": "1.0.2",
   "bugs": {
     "email": "agustin.burset@icloud.com"
   },
