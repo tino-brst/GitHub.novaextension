@@ -311,6 +311,11 @@ ruby.identifier.core.method {
   color: #f47067;
 }
 
+/* JSX */
+jsx.tag-content.bare-words {
+  color: #adbac7;
+}
+
 /*
  * Terminal 
  */
