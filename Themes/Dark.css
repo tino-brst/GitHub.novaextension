@@ -86,7 +86,7 @@ meta.text.invisible {
   color: #484f58;
 }
 meta.text.selected {
-  background: #173456; /* No alpha support */
+  background: #1e4173; /* No alpha support */
 }
 meta.declaration {
   color: #c9d1d9;
